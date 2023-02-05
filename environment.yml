@@ -5,3 +5,5 @@ dependencies:
   - seaborn
   - python=3.10
   - pandas
+  - jupyterlab
+  - conda=23.1.0
