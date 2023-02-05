@@ -7,3 +7,4 @@ dependencies:
   - pandas
   - jupyterlab
   - conda=23.1.0
+  - scipy
