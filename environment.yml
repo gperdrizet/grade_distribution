@@ -8,3 +8,4 @@ dependencies:
   - jupyterlab
   - conda=23.1.0
   - scipy
+  - statsmodels
