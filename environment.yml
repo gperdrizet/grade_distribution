@@ -1,0 +1,7 @@
+name: grade_distribution
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - python=3.10
+  - pandas
